@@ -1,4 +1,4 @@
-# Node.JS + rerank models
+# Python + rerank models
 
 ## Getting Started
 
